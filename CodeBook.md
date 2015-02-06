@@ -61,3 +61,9 @@ tBodyGyroMean
 tBodyGyroJerkMean
 
 The original data was grouped by activity and subject, and the average was extracted from each of these groupings. This resulting dataset is what is presented in the tidy-data-set.txt textfile.
+
+In addition to the variables above, I have provided:
+
+ActivityID : id which represents the activity
+ActivityName: name which describes the activity
+SubjectID : id which represents a unique test subject individual
